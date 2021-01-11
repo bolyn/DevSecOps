@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<!-- Fixed Versions -->
-		<<struts.version>2.3.37</struts.version>
+		<struts.version>2.3.37</struts.version>
 		<commons.version>4.2</commons.version>
 		<struts2.tiles>2.3.37</struts2.tiles>
 		<tiles.core>2.2.2</tiles.core>
